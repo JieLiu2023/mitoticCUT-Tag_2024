@@ -1,8 +1,7 @@
-# main scripts for *TBP bookmarks and preserves neural stem cell fate memory by orchestrating local chromatin architecture*
+# main scripts for *Protocol for identifying genomic binding sites of mitotic bookmarkers in Drosophila neural stem cells and cultured mammalian cells*
 
 ## Purposes
-- This repo includes main scripts used for:
-  - Shen Y, Liu K, Liu J, et al. *TBP bookmarks and preserves neural stem cell fate memory by orchestrating local chromatin architecture*. Mol Cell. 2025
+- This repository includes main scripts used for:
   - *Protocol for identifying genomic binding sites of mitotic bookmarkers in Drosophila neural stem cells and cultured mammalian cells*
 
 ## Steps
